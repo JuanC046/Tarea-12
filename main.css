@@ -1,0 +1,38 @@
+/* Estilo general del documento */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilo del encabezado */
+  h1 {
+    color: #333;
+    text-align: center;
+  }
+  
+  /* Estilo de la sección principal */
+  main {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  /* Estilo de los párrafos */
+  p {
+    color: #555;
+    line-height: 1.5;
+  }
+  
+  /* Estilo de los enlaces */
+  a {
+    color: #0077cc;
+    text-decoration: none;
+  }
+  
+  /* Estilo de los enlaces al pasar el ratón */
+  a:hover {
+    text-decoration: underline;
+  }
+  
